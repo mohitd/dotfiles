@@ -16,3 +16,6 @@
     cob = checkout -b
     a = add
     ap = add -p
+    ac = "!git add . && git commit -am"
+    rao = remote add origin
+    pushitgood = push -u origin --all
